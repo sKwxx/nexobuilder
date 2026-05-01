@@ -1,5 +1,7 @@
 WEB SITE https://skwxx.github.io/nexomanager/
 
+<img width="1049" height="708" alt="photo_2026-05-01_16-02-41" src="https://github.com/user-attachments/assets/8d862062-9d05-491c-9930-b05ed5493607" />
+
 
 ### ✨ Features
 - 🔑 Password management 
